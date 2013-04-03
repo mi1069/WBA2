@@ -1,4 +1,8 @@
-WBA2
+WBA2 SS 2013
 ====
 
-WBA2
+Web-basierte Anwendungen 2: Verteilte Systeme
+
+Phase 1 - Datenmodellierung und Data Binding
+
+Phase 2 - Projekt
