@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gruppenanmeldung>
+	<Person Typ="Gruppenleiter">
+		<Vorname>Max</Vorname>
+		<Name>Mustermann</Name>
+		<Geburtsdatum>01.01.1980</Geburtsdatum>
+		<EMail>max@mustermann.de</EMail>
+		<Erfahrung>Amateur</Erfahrung>
+		<Schlagzeug>vorhanden</Schlagzeug>
+		<Anmerkung>Hier ist ein Text</Anmerkung>
+	</Person>
+	<Person Typ="Mitglied">
+		<Vorname>Onkel</Vorname>
+		<Name>Mustermann</Name>
+		<Geburtsdatum>02.02.1980</Geburtsdatum>
+		<EMail>onkel@mustermann.de</EMail>
+		<Erfahrung>Fortgeschrittener</Erfahrung>
+		<Schlagzeug>nicht vorhanden</Schlagzeug>
+	</Person>
+</Gruppenanmeldung>
