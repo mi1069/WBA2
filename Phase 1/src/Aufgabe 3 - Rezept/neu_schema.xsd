@@ -16,11 +16,13 @@
 	<attribute name="name" type="string" />
 	<attribute name="amount" type="float" />
 	<attribute name="unit" type="string" />
+	
 	<complexType name="collection_type">
 		<sequence>
 			<element ref="tns:rezept" maxOccurs="unbounded" />
 		</sequence>
 	</complexType>
+	
 	<complexType name="rezept_type">
 		<sequence>
 			<element ref="tns:rezeptid" />
@@ -32,22 +34,25 @@
 			<element ref="tns:comment" minOccurs="0" maxOccurs="unbounded" />
 		</sequence>
 	</complexType>
+	
 	<complexType name="ingredient_type">
 		<attribute ref="tns:name" />
 		<attribute ref="tns:amount" />
 		<attribute ref="tns:unit" />
 	</complexType>
+	
 	<complexType name="ingrediens_type">
 		<sequence>
 			<element ref="tns:ingredient" maxOccurs="unbounded" />
-
 		</sequence>
 	</complexType>
+	
 	<complexType name="preparation_type">
 		<sequence>
 			<element ref="tns:step" maxOccurs="unbounded" />
 		</sequence>
 	</complexType>
+	
 	<complexType name="comment_type">
 		<sequence>
 			<element ref="tns:autor" />
@@ -55,4 +60,5 @@
 			<element ref="tns:text" />
 		</sequence>
 	</complexType>
+	
 </schema>
