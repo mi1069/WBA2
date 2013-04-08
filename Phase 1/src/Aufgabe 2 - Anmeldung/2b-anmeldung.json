@@ -1,0 +1,25 @@
+{
+    "gruppenanmeldung":{
+        "person":[
+            {
+               	 "typ":"Gruppenleiter" ,
+                "vorname":"Max",
+                "name":"Musterman",
+                "geburtsdatum":"01.01.1980",
+                "email":"max@mustermann.de",
+                "erfahrung":"Amateur",
+                "schlagzeug":"vorhanden",
+                "anmerkung":"Hier ist ein Text"
+            },
+            {
+               	 "typ":"Mitglied",
+                "vorname":"Onkel",
+                "name":"Mustermann",
+                "geburtsdatum":"02.02.1980",
+                "email":"onkel@mustermann.de",
+                "erfahrung":"Fortgeschrittener",
+                "schlagzeug":"nicht vorhanden"
+            }
+        ]
+    }
+}

@@ -2,8 +2,7 @@
     "gruppenanmeldung":{
         "person":[
             {
-                
-               	"typ":"Gruppenleiter",
+               	 "typ":"Gruppenleiter" ,
                 "vorname":"Max",
                 "name":"Musterman",
                 "geburtsdatum":"01.01.1980",
@@ -13,7 +12,7 @@
                 "anmerkung":"Hier ist ein Text"
             },
             {
-               	 "typ":"Mitglied" ,
+               	 "typ":"Mitglied",
                 "vorname":"Onkel",
                 "name":"Mustermann",
                 "geburtsdatum":"02.02.1980",
