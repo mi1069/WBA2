@@ -5,7 +5,6 @@
 	<Date>15.11.2001</Date>	
 	 <Pictures>
         	<Picture uri = "http://static.chefkoch-cdn.de/ck.de/rezepte/2/2464/8082-960x720-lenchen_s_schokoladenkuchen.jpg"/>
-        	<Picture uri = "http://static.chefkoch-cdn.de/ck.de/rezepte/2/2464/54425-960x720-lenchen-s-schokoladenkuchen.jpg"/>
     </Pictures>
 	<Ingredients portion="16">
 		<Ingredient name="Butter" amount="12.5" unit="g"></Ingredient>	
