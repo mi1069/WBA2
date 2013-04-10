@@ -1,25 +1,32 @@
 {
-    "gruppenanmeldung":{
-        "person":[
-            {
-               	 "typ":"Gruppenleiter" ,
-                "vorname":"Max",
-                "name":"Musterman",
-                "geburtsdatum":"01.01.1980",
-                "email":"max@mustermann.de",
-                "erfahrung":"Amateur",
-                "schlagzeug":"vorhanden",
-                "anmerkung":"Hier ist ein Text"
-            },
-            {
-               	 "typ":"Mitglied",
-                "vorname":"Onkel",
-                "name":"Mustermann",
-                "geburtsdatum":"02.02.1980",
-                "email":"onkel@mustermann.de",
-                "erfahrung":"Fortgeschrittener",
-                "schlagzeug":"nicht vorhanden"
-            }
-        ]
-    }
+  "Gruppenanmeldung": [
+  		{
+	  	  "Leiter": 
+	  	  	{
+			      "Typ": "Gruppenleiter",
+			      "Vorname": "Max",
+			      "Name": "Mustermann",
+			      "Geburtsdatum": "01.01.1980",
+			      "EMail": "max@mustermann.de",
+			      "Erfahrung": "Amateur",
+			      "Schlagzeug": "vorhanden",
+			      "Anmerkung": "Hier ist ein Text"
+    			},
+    		"Personen": [
+    			{
+			      "Person": 
+			      		{
+					        "Typ": "Mitglied",
+					        "Vorname": "Onkel",
+					        "Name": "Mustermann",
+					        "Geburtsdatum": "02.02.1980",
+					        "EMail": "onkel@mustermann.de",
+					        "Erfahrung": "Fortgeschrittener",
+					        "Schlagzeug": "nicht vorhanden"
+      					}
+      					
+    			}	
+    		]
+  		}
+  	]
 }
