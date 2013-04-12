@@ -2,16 +2,18 @@
 <rezept>
 	<title>Lenchen’s Schokoladenkuchen</title>
 	<autor>Leen</autor>
-	<date>15.11.2001</date>	
-	 <pictures>
-        	<picture uri = "http://static.chefkoch-cdn.de/ck.de/rezepte/2/2464/8082-960x720-lenchen_s_schokoladenkuchen.jpg"/>
-         </pictures>
+	<date>15.11.2001</date>
+	<pictures>
+		<picture
+			uri="http://static.chefkoch-cdn.de/ck.de/rezepte/2/2464/8082-960x720-lenchen_s_schokoladenkuchen.jpg" />
+	</pictures>
 	<ingrediens portion="16">
-		<ingredient name="Butter" amount="12.5" unit="g"></ingredient>	
-		<ingredient name="Schokolade, Blockschokolade" amount="200" unit="g"></ingredient>
+		<ingredient name="Butter" amount="12.5" unit="g"></ingredient>
+		<ingredient name="Schokolade, Blockschokolade" amount="200"
+			unit="g"></ingredient>
 		<ingredient name="Mehl" amount="120" unit="g"></ingredient>
 		<ingredient name="Backpulver" amount="1/2" unit="TL"></ingredient>
-		<ingredient name="Vanillezucker" amount="1" unit="Pkt"></ingredient>		
+		<ingredient name="Vanillezucker" amount="1" unit="Pkt"></ingredient>
 		<ingredient name="Eier" amount="4"></ingredient>
 	</ingrediens>
 
@@ -23,7 +25,9 @@
 		<step>Eier trennen und Eiweiß steif schlagen.</step>
 		<step>Eigelbe, Zucker und Vanillezucker verrühren.</step>
 		<step>Geschmolzene Butter-Schokomasse hinzufügen und mischen.</step>
-		<step>Mehl mit dem Backpulver in die Masse sieben und zum Schluss die steifen Eiweiße vorsichtig unterheben.</step>
+		<step>Mehl mit dem Backpulver in die Masse sieben und zum Schluss die
+			steifen Eiweiße vorsichtig unterheben.
+		</step>
 		<step>Eine gut gefettete Form geben.</step>
 		<step>Bei 180°Grad 40 – 50 Minuten backen.</step>
 	</preparation>
@@ -31,14 +35,22 @@
 		<comment>
 			<autor>swieselchen</autor>
 			<date>07.02.2002</date>
-			<text>Habe Deinen Kuchen gestern gebacken (kleine Abwandlung: statt Blockschokolade hatte ich nur Kuvertüre, zartbitter und ich habe noch etwas Rumaroma und eine Prise Salz dazugegeben) mein LAG war total begeistert. Ich übrigends auch, super rezept.</text>
-			<picture uri = "http://static.chefkoch-cdn.de/ck.de/user/5ab77fec95e69919037a2ea283c4d6a6.jpg"/>	
+			<text>Habe Deinen Kuchen gestern gebacken (kleine Abwandlung: statt
+				Blockschokolade hatte ich nur Kuvertüre, zartbitter und ich habe
+				noch etwas Rumaroma und eine Prise Salz dazugegeben) mein LAG war
+				total begeistert. Ich übrigends auch, super rezept.
+			</text>
+			<picture
+				uri="http://static.chefkoch-cdn.de/ck.de/user/5ab77fec95e69919037a2ea283c4d6a6.jpg" />
 		</comment>
 		<comment>
 			<autor>Mane</autor>
 			<date>07.01.2003</date>
-			<text>Habe ihn eben gebacken und bin begeistert.Super rezept :-) LG Mane</text>
-			<picture uri = "http://static.chefkoch-cdn.de/ck.de/user/9029c94d48d6ef778a21f5284bfa2667.jpg"/>		
+			<text>Habe ihn eben gebacken und bin begeistert.Super rezept :-) LG
+				Mane
+			</text>
+			<picture
+				uri="http://static.chefkoch-cdn.de/ck.de/user/9029c94d48d6ef778a21f5284bfa2667.jpg" />
 		</comment>
 	</comments>
 </rezept>

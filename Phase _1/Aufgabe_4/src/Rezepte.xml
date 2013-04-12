@@ -11,17 +11,17 @@
 		<xs:autor>xs:francette</xs:autor>
 		<xs:date>2007-10-18T12:00:00</xs:date>
 		<xs:picture
- 			xs:uri="http://static.chefkoch-cdn.de/ck.de/rezepte/87/87373/504604-960x720-carpaccio-vom-rind.jpg" /> 
+			xs:uri="http://static.chefkoch-cdn.de/ck.de/rezepte/87/87373/504604-960x720-carpaccio-vom-rind.jpg" />
 		<xs:ingrediens xs:portion="4">
-			<xs:ingredient 
-				xs:name="Rinderfilet, oder Roastbeef, hauchdünn geschnitten"
+			<xs:ingredient xs:name="Rinderfilet, oder Roastbeef, hauchdünn geschnitten"
 				xs:amount="400" xs:unit="g" />
 			<xs:ingredient xs:name="Rucola" xs:amount="1" xs:unit="Pck" />
 			<xs:ingredient xs:name="Parmesan, frisch gehobelt"
-				xs:amount="1"  xs:unit="Stück" />
-			<xs:ingredient xs:name="Zitrone(n), den Saft" xs:amount="2" />
-			<xs:ingredient xs:name="Pinienkerne"
-				xs:amount="100" xs:unit="g" />
+				xs:amount="1" xs:unit="Stück" />
+			<xs:ingredient xs:name="Zitrone(n), den Saft"
+				xs:amount="2" />
+			<xs:ingredient xs:name="Pinienkerne" xs:amount="100"
+				xs:unit="g" />
 			<xs:ingredient xs:name="Balsamico" />
 			<xs:ingredient xs:name="Olivenöl" />
 			<xs:ingredient xs:name="Pfeffer, schwarz, aus der Mühle" />
@@ -87,7 +87,8 @@
 			<xs:autor>swieselchen</xs:autor>
 			<xs:date>2002-02-07T10:05:00</xs:date>
 			<xs:text>Habe Deinen Kuchen gestern gebacken (kleine Abwandlung: statt Blockschokolade hatte ich nur Kuvertüre, zartbitter und ich habe noch etwas Rumaroma und eine Prise Salz dazugegeben) mein LAG war total begeistert. Ich übrigends auch, super rezept.</xs:text>
-			<xs:picture xs:uri="http://static.chefkoch-cdn.de/ck.de/user/5ab77fec95e69919037a2ea283c4d6a6.jpg" />
+			<xs:picture
+				xs:uri="http://static.chefkoch-cdn.de/ck.de/user/5ab77fec95e69919037a2ea283c4d6a6.jpg" />
 		</xs:comment>
 	</xs:rezept>
 </xs:collection>
