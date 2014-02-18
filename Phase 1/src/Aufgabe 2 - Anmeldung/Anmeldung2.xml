@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Gruppenanmeldung>
-	<Personen> 
-		<Person Typ="Gruppenleiter" Vorname="Max" Name="Mustermann" Geburtsdatum="01.01.1980" EMail="max@mustermann.de" Erfahrung="Amatuer" Schlagzeug="vorhanden">
-		</Person>
-		<Person Typ="Mitglied" Vorname="Onkel" Name="Mustermann" Geburtsdatum="02.02.1980" EMail="onkel@mustermann.de" Erfahrung="Fortgeschrittener" Schlagzeug="nicht vorhanden">
-		</Person>
-	</Personen>
-</Gruppenanmeldung>
